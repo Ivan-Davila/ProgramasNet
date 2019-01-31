@@ -1,0 +1,22 @@
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.deps.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.runtimeconfig.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.runtimeconfig.dev.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.pdb
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.csprojAssemblyReference.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.AssemblyInfo.cs
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\Sistemas de informacion Geograficos\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.pdb
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.deps.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.runtimeconfig.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.runtimeconfig.dev.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\bin\Debug\netcoreapp2.2\HolaMundo.pdb
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.csprojAssemblyReference.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.AssemblyInfo.cs
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\HolaMundo\obj\Debug\netcoreapp2.2\HolaMundo.pdb
