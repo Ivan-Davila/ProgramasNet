@@ -1,0 +1,11 @@
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\obj\Debug\netcoreapp2.2\PagaTrabajador.csprojAssemblyReference.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\obj\Debug\netcoreapp2.2\PagaTrabajador.csproj.CoreCompileInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\obj\Debug\netcoreapp2.2\PagaTrabajador.AssemblyInfoInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\obj\Debug\netcoreapp2.2\PagaTrabajador.AssemblyInfo.cs
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\bin\Debug\netcoreapp2.2\PagaTrabajador.deps.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\bin\Debug\netcoreapp2.2\PagaTrabajador.runtimeconfig.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\bin\Debug\netcoreapp2.2\PagaTrabajador.runtimeconfig.dev.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\bin\Debug\netcoreapp2.2\PagaTrabajador.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\bin\Debug\netcoreapp2.2\PagaTrabajador.pdb
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\obj\Debug\netcoreapp2.2\PagaTrabajador.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\PagaTrabajador\obj\Debug\netcoreapp2.2\PagaTrabajador.pdb

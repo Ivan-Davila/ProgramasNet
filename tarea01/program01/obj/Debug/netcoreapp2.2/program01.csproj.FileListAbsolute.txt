@@ -1,0 +1,11 @@
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\obj\Debug\netcoreapp2.2\program01.csprojAssemblyReference.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\obj\Debug\netcoreapp2.2\program01.csproj.CoreCompileInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\obj\Debug\netcoreapp2.2\program01.AssemblyInfoInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\obj\Debug\netcoreapp2.2\program01.AssemblyInfo.cs
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\bin\Debug\netcoreapp2.2\program01.deps.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\bin\Debug\netcoreapp2.2\program01.runtimeconfig.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\bin\Debug\netcoreapp2.2\program01.runtimeconfig.dev.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\bin\Debug\netcoreapp2.2\program01.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\bin\Debug\netcoreapp2.2\program01.pdb
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\obj\Debug\netcoreapp2.2\program01.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea01\program01\obj\Debug\netcoreapp2.2\program01.pdb
