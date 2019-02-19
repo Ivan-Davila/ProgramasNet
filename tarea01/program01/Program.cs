@@ -68,7 +68,10 @@ namespace program01
         static void menu(){
             Console.WriteLine("[1] Numeros del 1 al 100 con ciclo while");
             Console.WriteLine("[2] Numeros del 100 al 1 con ciclo do .. while");
-            Console.WriteLine("[3] ");
+            Console.WriteLine("[3] Numeros del 50 al 200");
+            Console.WriteLine("[4] Numeros del 2 al 100 solo los pares");
+            Console.WriteLine("[5] Numeros del 99 al 1 solo los impares");
+            Console.WriteLine("[6] Numeros del 272 al 40 en decrementos de 4");
         }
     }
 
