@@ -1,0 +1,11 @@
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\bin\Debug\netcoreapp2.2\ControlBancario.deps.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\bin\Debug\netcoreapp2.2\ControlBancario.runtimeconfig.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\bin\Debug\netcoreapp2.2\ControlBancario.runtimeconfig.dev.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\bin\Debug\netcoreapp2.2\ControlBancario.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\bin\Debug\netcoreapp2.2\ControlBancario.pdb
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\obj\Debug\netcoreapp2.2\ControlBancario.csprojAssemblyReference.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\obj\Debug\netcoreapp2.2\ControlBancario.csproj.CoreCompileInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\obj\Debug\netcoreapp2.2\ControlBancario.AssemblyInfoInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\obj\Debug\netcoreapp2.2\ControlBancario.AssemblyInfo.cs
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\obj\Debug\netcoreapp2.2\ControlBancario.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\tarea3\ControlBancario\obj\Debug\netcoreapp2.2\ControlBancario.pdb
