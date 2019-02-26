@@ -1,8 +1,11 @@
+using System;
+
 namespace ControlBancario.Clases
 {
+    [Serializable]
     public class CuentaBancaria
     {
-        private double saldo;
+        protected double saldo;//protected permite que las clases puedan utilizar 
         //se utiliza la sobrecarga en el constructor para poder inicializar con o sin valores la intancia del objeto
         //se distingue por que un metodo no tiene parametros de entrada y el segundo si aunque tengan el mismo nombre
         //se diferencia su uso mandando el parametro que requiera cada uno
@@ -22,7 +25,7 @@ namespace ControlBancario.Clases
             if (cantidad > 0) 
                 saldo+=cantidad;
         }
-        public bool Retira(double cantidad){
+        public virtual bool Retira(double cantidad){//virtual permite sobrecargar el metodo
             if(cantidad <= saldo){
                 saldo-=cantidad;
                 return true;
