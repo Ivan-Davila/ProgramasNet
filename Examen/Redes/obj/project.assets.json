@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arkangel Ivan\\Documents\\Apuntes\\8°\\SisInfoGeo\\Evaluacion\\Parcial1\\Redes\\Redes.csproj",
+      "projectUniqueName": "C:\\Users\\Arkangel Ivan\\Documents\\Apuntes\\8°\\SisInfoGeo\\Examen\\Redes\\Redes.csproj",
       "projectName": "Redes",
-      "projectPath": "C:\\Users\\Arkangel Ivan\\Documents\\Apuntes\\8°\\SisInfoGeo\\Evaluacion\\Parcial1\\Redes\\Redes.csproj",
+      "projectPath": "C:\\Users\\Arkangel Ivan\\Documents\\Apuntes\\8°\\SisInfoGeo\\Examen\\Redes\\Redes.csproj",
       "packagesPath": "C:\\Users\\Arkangel Ivan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arkangel Ivan\\Documents\\Apuntes\\8°\\SisInfoGeo\\Evaluacion\\Parcial1\\Redes\\obj\\",
+      "outputPath": "C:\\Users\\Arkangel Ivan\\Documents\\Apuntes\\8°\\SisInfoGeo\\Examen\\Redes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

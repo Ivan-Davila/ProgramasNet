@@ -1,0 +1,11 @@
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\obj\Debug\netcoreapp2.2\Redes.csprojAssemblyReference.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\obj\Debug\netcoreapp2.2\Redes.csproj.CoreCompileInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\obj\Debug\netcoreapp2.2\Redes.AssemblyInfoInputs.cache
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\obj\Debug\netcoreapp2.2\Redes.AssemblyInfo.cs
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\bin\Debug\netcoreapp2.2\Redes.deps.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\bin\Debug\netcoreapp2.2\Redes.runtimeconfig.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\bin\Debug\netcoreapp2.2\Redes.runtimeconfig.dev.json
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\bin\Debug\netcoreapp2.2\Redes.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\bin\Debug\netcoreapp2.2\Redes.pdb
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\obj\Debug\netcoreapp2.2\Redes.dll
+C:\Users\Arkangel Ivan\Documents\Apuntes\8°\SisInfoGeo\Examen\Redes\obj\Debug\netcoreapp2.2\Redes.pdb
